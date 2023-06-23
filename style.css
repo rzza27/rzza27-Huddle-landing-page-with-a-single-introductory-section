@@ -155,6 +155,9 @@ footer a{
         display: flex;
         flex-direction: column;
         padding: 1rem 2.5rem;
+        background-image: url(images/bg-desktop.svg);
+        background-size: cover;
+        background-color: var(--col-violet);
       }
       
       .hero-img {
