@@ -155,7 +155,7 @@ footer a{
         display: flex;
         flex-direction: column;
         padding: 1rem 2.5rem;
-        background-image: url(images/bg-desktop.svg);
+        background-image: url(images/bg-mobile.svg);
         background-size: cover;
         background-color: var(--col-violet);
       }
